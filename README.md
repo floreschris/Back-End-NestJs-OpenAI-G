@@ -7,7 +7,7 @@
 4. Ejecutar ```npm run start:dev```
 5. npm i sharp
 
-# Back-End-NestJs-OpenAI
+# Back-End-NestJs-Open-AI
 
 # Ortografia.
 ![image](https://github.com/floreschris/Back-End-NestJs-OpenAI-G/assets/97532730/0899d4f0-0c6a-49d9-97c3-cec959bd5214)
