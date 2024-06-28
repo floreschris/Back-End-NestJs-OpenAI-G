@@ -8,6 +8,7 @@
 5. npm i sharp
 
 # Back-End-NestJs-Open-AI
+# Code: $1Q5t9
 
 # Ortografia.
 ![image](https://github.com/floreschris/Back-End-NestJs-OpenAI-G/assets/97532730/0899d4f0-0c6a-49d9-97c3-cec959bd5214)
